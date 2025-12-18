@@ -29,8 +29,3 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
----
-
-### 🤝 Collaboration / Collaboration
-- **FR :** Je conçois mes outils dans un esprit d’ouverture et de partage responsable, afin de faire progresser la pratique sans empiéter sur la propriété intellectuelle des firmes.  
-- **EN :** I design my tools with a spirit of openness and responsible sharing, to advance the practice without encroaching on firms’ intellectual property.
